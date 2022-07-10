@@ -1,0 +1,10 @@
+===============
+You have connected to and retrieved a file
+from the internal panw.lab server.
+Real IP 192.168.1.20
+===============
+This is a test file for 
+validating basic connectivity.
+===============
+END OF FILE
+===============

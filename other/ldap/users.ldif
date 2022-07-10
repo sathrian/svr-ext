@@ -1,0 +1,7 @@
+# Object: uid=adminSally,dc=lab,dc=local
+dn: uid=adminSally,dc=lab,dc=local
+objectclass: account
+objectclass: simpleSecurityObject
+objectclass: top
+uid: adminSally
+userpassword: Pal0Alt0

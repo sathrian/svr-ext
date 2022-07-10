@@ -1,0 +1,57 @@
+<uid-message>
+  <type>update</type>
+  <payload>
+    <login>
+      <entry name="chicago\DCopperfield" ip="192.168.1.101"/>
+      <entry name="chicago\HFinn" ip="192.168.1.102"/>
+      <entry name="chicago\DrJekyll" ip="192.168.1.103"/>
+      <entry name="chicago\MrHyde" ip="192.168.1.104"/>
+      <entry name="chicago\JDArc" ip="192.168.1.248"/>
+      <entry name="chicago\JCaesar" ip="10.10.24.102"/>
+      <entry name="chicago\TSawyer" ip="192.168.210.28"/>
+      <entry name="chicago\DrJekyll" ip="192.168.1.2"/>
+      <entry name="chicago\NNickleby" ip="192.168.1.9"/>
+      <entry name="chicago\JDawkins" ip="192.168.1.10"/>
+      <entry name="chicago\RCrusoe" ip="10.3.14.101"/>
+      <entry name="chicago\NBumppo" ip="192.168.1.12"/>
+      <entry name="chicago\JHawkins" ip="192.168.1.13"/>
+      <entry name="chicago\LGulliver" ip="192.168.1.14"/>
+      <entry name="chicago\AQuartermain" ip="192.168.1.15"/>
+      <entry name="chicago\JWatson" ip="192.168.1.16"/>
+      <entry name="chicago\TSawyer" ip="10.4.5.101"/>
+      <entry name="chicago\NCarter" ip="192.168.1.18"/>
+      <entry name="chicago\MHolmes" ip="192.168.1.19"/>
+      <entry name="chicago\SHolmes" ip="192.168.1.20"/>
+      <entry name="chicago\OTwist" ip="192.168.1.21"/>
+      <entry name="chicago\HPoirot" ip="192.168.1.22"/>
+      <entry name="chicago\HDrummond" ip="192.168.1.23"/>
+      <entry name="chicago\VHelsing" ip="192.168.1.24"/>
+      <entry name="chicago\RVWinkle" ip="192.168.1.25"/>
+      <entry name="chicago\EScrooge" ip="10.11.2.102"/>
+      <entry name="chicago\DGray" ip="192.168.1.27"/>
+      <entry name="chicago\BButton" ip="192.168.1.28"/>
+      <entry name="chicago\KCarson" ip="192.168.1.29"/>
+      <entry name="chicago\JAppleseed" ip="192.168.1.30"/>
+      <entry name="chicago\AOakley" ip="10.9.3.101"/>
+      <entry name="chicago\BMasterson" ip="192.168.1.32"/>
+      <entry name="chicago\BKid" ip="192.168.1.33"/>
+      <entry name="chicago\BStarr" ip="192.168.1.34"/>
+      <entry name="chicago\BBart" ip="192.168.1.35"/>
+      <entry name="chicago\BBill" ip="192.168.1.36"/>
+      <entry name="chicago\BCassidy" ip="192.168.1.37"/>
+      <entry name="chicago\CJane" ip="192.168.1.38"/>
+      <entry name="chicago\CHorse" ip="192.168.1.39"/>
+      <entry name="chicago\DHoliday" ip="192.168.1.40"/>
+      <entry name="chicago\GRonimo" ip="192.168.1.41"/>
+      <entry name="chicago\JJames" ip="192.168.1.42"/>
+      <entry name="chicago\JRingo" ip="192.168.1.43"/>
+      <entry name="chicago\PGarrett" ip="192.168.1.44"/>
+      <entry name="chicago\SBull" ip="192.168.1.45"/>
+      <entry name="chicago\SKid" ip="192.168.1.46"/>
+      <entry name="chicago\WBHickock" ip="192.168.1.47"/>
+      <entry name="chicago\WEarp" ip="10.10.17.102"/>
+      <entry name="chicago\DBoone" ip="172.20.200.20"/>
+      <entry name="chicago\DCrocket" ip="192.168.1.50"/>
+    </login>
+  </payload>
+</uid-message>

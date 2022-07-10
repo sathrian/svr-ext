@@ -1,0 +1,79 @@
+# Object 1: uid=lab-user,dc=panw,dc=lab
+dn: uid=lab-user,dc=panw,dc=lab
+objectclass: account
+objectclass: simpleSecurityObject
+objectclass: top
+uid: bclaunch
+userpassword: Pal0Alt0!
+
+# Object 1: uid=paloalto42,dc=panw,dc=lab
+dn: uid=paloalto42,dc=panw,dc=lab
+objectclass: account
+objectclass: simpleSecurityObject
+objectclass: top
+uid: paloalto42
+userpassword: Pal0Alt0!
+
+dn: cn=Edu,ou=Groups,dc=panw,dc=lab
+objectClass: posixGroup
+cn: Lab
+gidNumber: 5000
+
+dn: uid=paloalto42,ou=People,dc=panw,dc=lab
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: paloalto42
+sn: claunch
+givenName: bill
+cn: billclaunch
+displayName: paloalto42
+uidNumber: 10000
+gidNumber: 5000
+userPassword: Pal0Alt0!
+gecos: billclaunch
+loginShell: /bin/bash
+homeDirectory: /home/paloalto42
+
+dn: uid=paloalto42,ou=People,dc=panw,dc=lab
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: paloalto42
+sn: lab-user
+givenName: lab
+cn: lab-user
+displayName: lab-user
+uidNumber: 10000
+gidNumber: 5000
+userPassword: Pal0Alt0!
+gecos: lab-user
+loginShell: /bin/bash
+homeDirectory: /home/paloalto42
+
+dn: uid=paloalto42,ou=People,dc=panw,dc=lab
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: paloalto42
+sn: paloalto42
+givenName: palo
+cn: paloalto42
+displayName: paloalto42
+uidNumber: 10000
+gidNumber: 5000
+userPassword: Pal0Alt0!
+gecos: paloalto42
+loginShell: /bin/bash
+homeDirectory: /home/paloalto42
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+#add_nodes.ldif
+dn: ou=people,dc=panw,dc=lab
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=groups,dc=panw,dc=lab
+objectClass: organizationalUnit
+ou: Groups

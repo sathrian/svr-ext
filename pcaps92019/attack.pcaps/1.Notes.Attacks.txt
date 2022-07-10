@@ -1,0 +1,5 @@
+This directory contains pcap files and scripts used to generate simulated attacks.
+The pcaps were created in August 2019 and use Dynamic Content files from May of 2019.
+
+Any updates to Dynamic Content on the firewall will most like result in fewer signature
+matches.

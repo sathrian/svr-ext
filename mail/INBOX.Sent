@@ -1,0 +1,70 @@
+From paloalto42@linux-server2.lab.local  Wed Jun 19 16:06:13 2019
+Received: from 192.168.1.20
+        (SquirrelMail authenticated user paloalto42)
+        by 192.168.50.150 with HTTP;
+        Wed, 19 Jun 2019 16:06:13 -0500
+Message-ID: <22bd3044a8021cf8a154c44d8de33ff9.squirrel@192.168.50.150>
+Date: Wed, 19 Jun 2019 16:06:13 -0500
+Subject: test
+From: paloalto42@lab.local
+To: paloalto42@lab.local
+User-Agent: SquirrelMail/1.4.23 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-IMAPbase: 1560977574 0000000003
+X-UID: 1
+Status: RO
+X-Keywords:                                                                        
+Content-Length: 1
+
+
+
+From paloalto42@linux-server2.lab.local  Wed Jun 19 16:09:11 2019
+Received: from 192.168.1.20
+        (SquirrelMail authenticated user paloalto42)
+        by 192.168.50.150 with HTTP;
+        Wed, 19 Jun 2019 16:09:11 -0500
+Message-ID: <b8b5d9c95f31b955c2ee01a938c27e4e.squirrel@192.168.50.150>
+Date: Wed, 19 Jun 2019 16:09:11 -0500
+Subject: Test2
+From: paloalto42@lab.local
+To: paloalto42@lab.local
+User-Agent: SquirrelMail/1.4.23 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-UID: 2
+Status: RO
+X-Keywords:                                                                        
+Content-Length: 1
+
+
+
+From paloalto42@linux-server2.lab.local  Wed Jun 19 18:31:21 2019
+Received: from 192.168.1.20
+        (SquirrelMail authenticated user paloalto42)
+        by 192.168.50.150 with HTTP;
+        Wed, 19 Jun 2019 18:31:21 -0500
+Message-ID: <866521fbb08cde969935366a89e30c16.squirrel@192.168.50.150>
+Date: Wed, 19 Jun 2019 18:31:21 -0500
+Subject: test
+From: paloalto42@lab.local
+To: firewall-a@lab.local
+User-Agent: SquirrelMail/1.4.23 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-UID: 3
+Status: RO
+X-Keywords:                                                                        
+Content-Length: 1
+
+
+

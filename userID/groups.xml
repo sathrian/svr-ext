@@ -1,0 +1,88 @@
+<uid-message>
+  <type>update</type>
+  <payload>
+    <groups>
+      <entry name="Sales">
+        <members>
+	  <entry name="chicago\DCopperfield"/>
+	  <entry name="chicago\HFinn"/>
+          <entry name="chicago\DrJekyll"/>
+          <entry name="chicago\MrHyde"/>
+          <entry name="chicago\JDArc"/>
+          <entry name="chicago\JCaesar"/>
+          <entry name="chicago\TSawyer"/>
+          <entry name="chicago\DrJekyll"/>
+          <entry name="chicago\NNickleby"/>
+          <entry name="chicago\JDawkins"/>
+          <entry name="chicago\RCrusoe"/>
+          <entry name="chicago\NBumppo"/>
+        </members>
+      </entry>
+      <entry name="Training">
+        <members>
+	      <entry name="chicago\JHawkins"/>
+	      <entry name="chicago\LGulliver"/>
+	      <entry name="chicago\AQuartermain"/>
+	      <entry name="chicago\JWatson"/>
+	      <entry name="chicago\TSawyer"/>
+	      <entry name="chicago\NCarter"/>
+	      <entry name="chicago\MHolmes"/>
+        </members>
+      </entry>
+      <entry name="Finance">
+        <members>
+	      <entry name="chicago\JHawkins"/>
+	      <entry name="chicago\LGulliver"/>
+	      <entry name="chicago\AQuartermain"/>
+	      <entry name="chicago\JWatson"/>
+	      <entry name="chicago\TSawyer"/>
+	      <entry name="chicago\NCarter"/>
+	      <entry name="chicago\MHolmes"/>
+        </members>
+      </entry>
+      <entry name="Marketing">
+        <members>
+	      <entry name="chicago\SHolmes"/>
+	      <entry name="chicago\OTwist"/>
+	      <entry name="chicago\HPoirot"/>
+	      <entry name="chicago\HDrummond"/>
+	      <entry name="chicago\VHelsing"/>
+	      <entry name="chicago\RVWinkle"/>
+	      <entry name="chicago\EScrooge"/>
+	      <entry name="chicago\DGray"/>
+	      <entry name="chicago\BButton"/>
+	      <entry name="chicago\KCarson"/>
+        </members>
+      </entry>
+      <entry name="IT">
+        <members>
+	      <entry name="chicago\JAppleseed"/>
+	      <entry name="chicago\AOakley"/>
+	      <entry name="chicago\BMasterson"/>
+	      <entry name="chicago\BKid"/>
+	      <entry name="chicago\BStarr"/>
+	      <entry name="chicago\BBart"/>
+	      <entry name="chicago\BBill"/>
+        </members>
+      </entry>
+      <entry name="Accounting">
+        <members>
+	      <entry name="chicago\BCassidy"/>
+	      <entry name="chicago\CJane"/>
+	      <entry name="chicago\CHorse"/>
+	      <entry name="chicago\DHoliday"/>
+	      <entry name="chicago\GRonimo"/>
+	      <entry name="chicago\JJames"/>
+	      <entry name="chicago\JRingo"/>
+	      <entry name="chicago\PGarrett"/>
+	      <entry name="chicago\SBull"/>
+	      <entry name="chicago\SKid"/>
+	      <entry name="chicago\WBHickock"/>
+	      <entry name="chicago\WEarp"/>
+	      <entry name="chicago\DBoone"/>
+	      <entry name="chicago\DCrocket"/>
+        </members>
+      </entry>
+    </groups>
+  </payload>
+</uid-message>

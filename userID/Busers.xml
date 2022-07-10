@@ -1,0 +1,57 @@
+<uid-message>
+  <type>update</type>
+  <payload>
+    <login>
+      <entry name="berlin\BHur" ip="192.168.2.101"/>
+      <entry name="berlin\DQuixote" ip="192.168.2.102"/>
+      <entry name="berlin\SPanza" ip="192.168.2.103"/>
+      <entry name="berlin\HPoirot" ip="192.168.2.104"/>
+      <entry name="berlin\DMoreau" ip="192.168.2.248"/>
+      <entry name="berlin\DNikola" ip="10.10.24.102"/>
+      <entry name="berlin\FManchu" ip="192.168.210.23"/>
+      <entry name="berlin\STodd" ip="192.168.2.2"/>
+      <entry name="berlin\RCarter" ip="192.168.2.9"/>
+      <entry name="berlin\PPan" ip="192.168.2.10"/>
+      <entry name="berlin\CHook" ip="10.3.14.102"/>
+      <entry name="berlin\HDumpty" ip="192.168.2.12"/>
+      <entry name="berlin\BPeep" ip="192.168.2.13"/>
+      <entry name="berlin\PCharming" ip="192.168.2.14"/>
+      <entry name="berlin\SBeauty" ip="192.168.2.15"/>
+      <entry name="berlin\PNocchio" ip="192.168.2.16"/>
+      <entry name="berlin\BMunchahausen" ip="10.4.5.102"/>
+      <entry name="berlin\RDiamond" ip="192.168.2.18"/>
+      <entry name="berlin\BBrown" ip="192.168.2.19"/>
+      <entry name="berlin\BWhiskers" ip="192.168.2.20"/>
+      <entry name="berlin\PRabbit" ip="192.168.2.21"/>
+      <entry name="berlin\UWiggly" ip="192.168.2.22"/>
+      <entry name="berlin\MDick" ip="192.168.2.23"/>
+      <entry name="berlin\BGordon" ip="192.168.2.24"/>
+      <entry name="berlin\DDale" ip="192.168.2.25"/>
+      <entry name="berlin\MDean" ip="10.11.2.106"/>
+      <entry name="berlin\MLennox" ip="192.168.2.27"/>
+      <entry name="berlin\GHarlowe" ip="192.168.2.28"/>
+      <entry name="berlin\HGraham" ip="192.168.2.29"/>
+      <entry name="berlin\RFielding" ip="192.168.2.30"/>
+      <entry name="berlin\PFairfield" ip="10.9.3.111"/>
+      <entry name="berlin\TSwift" ip="192.168.2.32"/>
+      <entry name="berlin\BBunter" ip="192.168.2.33"/>
+      <entry name="berlin\EWoodhouse" ip="192.168.2.34"/>
+      <entry name="berlin\JEyre" ip="192.168.2.35"/>
+      <entry name="berlin\RJeeves" ip="192.168.2.36"/>
+      <entry name="berlin\TWellwyn" ip="192.168.2.37"/>
+      <entry name="berlin\URemus" ip="192.168.2.38"/>
+      <entry name="berlin\HPfaall" ip="192.168.2.39"/>
+      <entry name="berlin\LGulliver" ip="192.168.2.40"/>
+      <entry name="berlin\DDolittle" ip="192.168.2.41"/>
+      <entry name="berlin\HCassidy" ip="192.168.2.42"/>
+      <entry name="berlin\CKennedy" ip="192.168.2.43"/>
+      <entry name="berlin\SBlake" ip="192.168.2.44"/>
+      <entry name="berlin\PWimsey" ip="192.168.2.45"/>
+      <entry name="berlin\CNemo" ip="192.168.2.46"/>
+      <entry name="berlin\PMoriarty" ip="192.168.2.47"/>
+      <entry name="berlin\CThulhu" ip="10.10.17.102"/>
+      <entry name="berlin\SClaunch" ip="172.20.200.22"/>
+      <entry name="berlin\BClaunch" ip="192.168.2.50"/>
+    </login>
+  </payload>
+</uid-message>
